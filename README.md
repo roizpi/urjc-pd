@@ -16,7 +16,7 @@ The course basically includes several notebooks on the following topics:
 
 To access these notebooks you need first to clone this repository in your local drive: 
 
-`> git clone https://github.com/jserranohidalgo/urjc-pd-21-22.git pd`
+`> git clone https://github.com/jserranohidalgo/urjc-pd.git pd-21-22`
 
 Then, run the program:
 
